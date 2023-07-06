@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m school hello
+chgrp school hello
